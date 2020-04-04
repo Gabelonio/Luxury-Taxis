@@ -29,7 +29,7 @@ to be requested:
 The map of the city is basically defined with coordinates, each pair of 
 coordinates is referenced as zones, the city has 5 carreras and 3 calles:
 
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462619-7b5d3000-7699-11ea-94de-9ac209b41ce5.png" width="560">
 
 The Calles increases from top to bottom and the Carreras from left to right. For example the vehicle ZZZ-243 is located in
 the calle 2 and the carrera 3.
@@ -43,12 +43,12 @@ you can register the number of taxis that you need ( consider the fact that a zo
 taxis at the same time, meaning 45 taxis in total ).
 After the number of taxis is typed, you will be requested to fill the information of each taxi.
 
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462649-9e87df80-7699-11ea-8516-bf0b8ca60ff1.png" width="560">
 
 #### Visualize the taxis' information
 You can visualize the complete information of the registered taxis including their activity, plate, type, capicity and location.
 
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462650-9f207600-7699-11ea-9171-e64d9cb1d6d2.png" width="560">
 
 #### Visualize the map
 As seen before, the user can see the location of active taxis, printing the zone they are located at the moment of executing the
@@ -57,39 +57,38 @@ option.
 #### Activating or inactivating a taxi
 Activating or inactivating a taxi sets the avaialability of a taxi to offer the service.
 
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462647-9def4900-7699-11ea-8ed5-c8492d52f177.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462651-a051a300-7699-11ea-9c0d-31f538c82256.png" width="560">
 
 #### Consulting a specific taxi
 Consult the information of an specific taxi by inserting its license plate.
 
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462639-99c32b80-7699-11ea-961a-378db2c5b526.png" width="560">
 
 #### Consulting a specific zone
 Consult the information of an specific zone by inserting its calle and carrera.
 
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462640-9a5bc200-7699-11ea-8be6-44999c059fc0.png" width="560">
 
 #### Moving a taxi from zone
 Take a registered taxi and move it, you can choose where to move it by pressing W,A,R os D.
 
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462641-9af45880-7699-11ea-9872-9aa2c49ae12f.png" width="560">
 
-Map Changed
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462617-7ac49980-7699-11ea-8650-02a7369e6c9e.png" width="560">
 
 #### Deleting the taxis
 If you press three times 0, a verification message will appear, at the moment you press 1, the taxis will be
 deleted. 
 
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462642-9c258580-7699-11ea-8ff6-7820cedd333b.png" width="560">
 
 #### Request a service
 You can request a taxi by entering your preferences to request a taxi, the software will send a message whether 
 a taxi is available based on these preferences or not.
 
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462643-9cbe1c00-7699-11ea-8df4-f674da2aa77a.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78462644-9d56b280-7699-11ea-8e05-63821b13a70b.png" width="560">
 
 
 
