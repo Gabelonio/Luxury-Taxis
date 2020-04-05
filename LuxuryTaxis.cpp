@@ -24,7 +24,7 @@ using namespace std;
 	
 	struct taxi: 
 				1. License plate : char[7]. Example : ABC-123
-				2. type : int. Example : 1 (Automobile), 2 (Van).
+				2. Type : int. Example : 1 (Automobile), 2 (Van).
 				3. Capacity : int. Example : 3 people [Maximum].
 				4. Calle : int. Example : Calle 2 [Y Coordinate].
 				5. Carrera : int. Example : Carrera 3 [X Coordinate].
@@ -104,7 +104,7 @@ void solicitarTaxi();
 	SIGNIFICANT VARIABLES
 */
 /*
-	Agency : 
+	Agency : Reference of a taxi. 
 	
 	User : Controls everything from the user's view. 
 	
