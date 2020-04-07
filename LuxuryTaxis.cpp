@@ -131,9 +131,9 @@ int main(){
 		system("color E0");
 		
 		//Prints the menu.
-		cout<<"°°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°\n  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°°°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  ";
+		cout<<"Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°\n  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  ";
 		cout<<"\n LUXURY TAXIS \n\n\n\n\t\t\t\t   .: Menu :.\n\nPress\nEnter. To Register taxis (Action only once)\n1. Visualize the Taxis' Information\n2. To Visualize the City's map\n3. Activate a Taxi\n4. Inactivate a Taxi\n5. Request a taxi service\n6. Consult a specific taxi\n7. Consult a specific zone\n8. Move a Taxi from zone\n Three times 0 to delete the Taxis' Register\nEsc Exit\n";
-		cout<<"\n°°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°\n  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°°°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  ";				
+		cout<<"\nÂ°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°\n  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  ";				
 		opcion=getch();
 		system("cls"); 
 		switch(opcion){
@@ -324,9 +324,9 @@ int main(){
 void desplegarLogo(){
 	
 	system("color E0");	
-	cout<<"°°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°";
-	cout<<"\n  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°";
-	cout<<"°°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  \n";	
+	cout<<"Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°";
+	cout<<"\n  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°";
+	cout<<"Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  \n";	
 	cout<<"\t\t\t	 .----------------. \n";
 	cout<<"\t\t\t	| .--------------. |\n";
 	cout<<"\t\t\t	| |  _________   | |\n";
@@ -340,9 +340,9 @@ void desplegarLogo(){
 	cout<<"\t\t\t 	'------------------' \n";
 	cout<<"\n\t\t\t            LUXURY TAXIS";
 	cout<<"\n\n\t\t\t \t      Elegant\n\t\t\t \t       Fast\n\t\t\t \t      Simple\n\n";
-	cout<<"°°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°";
-	cout<<"\n  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°";
-	cout<<"°°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  °°  ";
+	cout<<"Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°";
+	cout<<"\n  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°";
+	cout<<"Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  Â°Â°  ";
 	getch();
 	system("cls");
 }
@@ -826,15 +826,15 @@ void desplegarMapa(){
 	system("color f0");
 	cout<<"\n\t\t\t\tCITY MAP\n\n* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * ";	
     for(int i=0;i<3;i++){
-		cout<<"\n\n    °°°°°°°°°      °°°°°°°°°      °°°°°°°°°      °°°°°°°°°      °°°°°°°°°";		
+		cout<<"\n\n    Â°Â°Â°Â°Â°Â°Â°Â°Â°      Â°Â°Â°Â°Â°Â°Â°Â°Â°      Â°Â°Â°Â°Â°Â°Â°Â°Â°      Â°Â°Â°Â°Â°Â°Â°Â°Â°      Â°Â°Â°Â°Â°Â°Â°Â°Â°";		
 		for(int j=0;j<3;j++){
 			cout<<"\n    "; 
 			for(int k=0;k<5;k++){
 				//Prints every plate where the taxi is currently.
-				cout<<"°"<<mapa[i][k][j].Placa<<"°      ";  
+				cout<<"Â°"<<mapa[i][k][j].Placa<<"Â°      ";  
 			}
 		}
-		cout<<"\n    °°°°°°°°°      °°°°°°°°°      °°°°°°°°°      °°°°°°°°°      °°°°°°°°°\n"; 
+		cout<<"\n    Â°Â°Â°Â°Â°Â°Â°Â°Â°      Â°Â°Â°Â°Â°Â°Â°Â°Â°      Â°Â°Â°Â°Â°Â°Â°Â°Â°      Â°Â°Â°Â°Â°Â°Â°Â°Â°      Â°Â°Â°Â°Â°Â°Â°Â°Â°\n"; 
 	} 
 	cout<<"\n\n";                           
 }
@@ -943,7 +943,7 @@ int ingresarNumero(char ingreso[]){
 				  necessary for executing the operation.
 */
 void solicitarTaxi(){
-	//Variable para guardar el taxi mas apropiado para la operacion; 
+	//Variable for saving the taxi which best fits to the user's preferences 
 	taxi Seleccionado; 
 	Seleccionado.Placa[0]='0'; 
 	
