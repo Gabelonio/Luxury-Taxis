@@ -1,5 +1,5 @@
 # Luxury Taxis :taxi:
-#### Gabriel Esteban Castillo 
+#### Gabriel Esteban Castillo
 #### Andres Felipe Peralta
 #### Andres Felipe Perez
 ### Introduction
@@ -15,10 +15,10 @@ Each taxi has the next information:
 4. Calle. Example : Calle 2 [Y Coordinate].
 5. Carrera. Example : Carrera 3 [X Coordinate].
 6. Time. Example : 3 times the taxi hasn't received a service.
-7. Active. Example : Active for receiving services [Could be busy with a customer]. 
-8. Free. Example : Able for receiving clients. 
+7. Active. Example : Active for receiving services [Could be busy with a customer].
+8. Free. Example : Able for receiving clients.
 
-Each user has the next information, this information is related to the taxi 
+Each user has the next information, this information is related to the taxi
 to be requested:
 
 1. Type. Example : 1 (Automobile).
@@ -26,7 +26,7 @@ to be requested:
 3. Calle. Example : Calle 2 [Y Coordinate].
 4. Carrera. Example : Carrera 3 [X Coordinate].
 
-The map of the city is basically defined with coordinates, each pair of 
+The map of the city is basically defined with coordinates, each pair of
 coordinates is referenced as zones, the city has 5 carreras and 3 calles:
 
 <img src="https://user-images.githubusercontent.com/43209755/78462619-7b5d3000-7699-11ea-94de-9ac209b41ce5.png" width="560">
@@ -52,7 +52,7 @@ You can visualize the complete information of the registered taxis including the
 
 #### Visualize the map
 As seen before, the user can see the location of active taxis, printing the zone they are located at the moment of executing the
-option. 
+option.
 
 #### Activating or inactivating a taxi
 Activating or inactivating a taxi sets the avaialability of a taxi to offer the service.
@@ -79,12 +79,12 @@ Take a registered taxi and move it, you can choose where to move it by pressing 
 
 #### Deleting the taxis
 If you press three times 0, a verification message will appear, at the moment you press 1, the taxis will be
-deleted. 
+deleted.
 
 <img src="https://user-images.githubusercontent.com/43209755/78462642-9c258580-7699-11ea-8ff6-7820cedd333b.png" width="560">
 
 #### Request a service
-You can request a taxi by entering your preferences to request a taxi, the software will send a message whether 
+You can request a taxi by entering your preferences to request a taxi, the software will send a message whether
 a taxi is available based on these preferences or not.
 
 <img src="https://user-images.githubusercontent.com/43209755/78462643-9cbe1c00-7699-11ea-8df4-f674da2aa77a.png" width="560">
@@ -102,11 +102,11 @@ This software uses the following concepts:
 3. Functions.
 4. Files manipulation.
 
-#### Visualization and its interaction 
+#### Visualization and its interaction
 The interface is displayed in console and with the help of 'iomanip.h' by configuring the colors and
 patterns of printing.
 The interaction is a menu which has different options to execute the different actions mentioned in
-the user's guide, every function is called depending on the selected case. 
+the user's guide, every function is called depending on the selected case.
 
 #### Functionality
 Every action mentioned has specific structures which are managed with common structures, these are:
@@ -141,11 +141,13 @@ by the user:
 * void activarTaxi(char ingreso[]).
 * void solicitarTaxi().
 
-Each function has a description (input and output if it is necessary) inside the file 
-"LuxuryTaxis.cpp" which can be opened with a text editior, it contains detailed information 
-and the source code of the software. 
+Each function has a description (input and output if it is necessary) inside the file
+"LuxuryTaxis.cpp" which can be opened with a text editior, it contains detailed information
+and the source code of the software.
 
 
 ### Execution
 By cloning this repository, the user will only has to double click the "LuxuryTaxis" executable file and the software will deploy.
 DO NOT REMOVE THE "Agencia" file, this files saves the information of the taxis, without it, the software will not work.
+
+Note : this application only works on Windows. 
